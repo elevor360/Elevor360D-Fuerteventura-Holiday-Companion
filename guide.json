@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Fuerteventura",
+  "updated": "2026-11-01",
+  "intro": "Explore Fuerteventura, from the golden dunes of Corralejo and the beaches of Costa Calma to the old streets of Betancuria and the dramatic coastline at Ajuy. Save your holiday plans, favourite visits, photos and spending on your device.",
+  "areas": [
+    {
+      "name": "Corralejo",
+      "description": "Lively northern resort with beaches, restaurants, boat excursions and nearby dunes."
+    },
+    {
+      "name": "Caleta de Fuste",
+      "description": "Family-friendly east coast resort with sheltered beaches and a marina."
+    },
+    {
+      "name": "Costa Calma",
+      "description": "Relaxed southern resort known for broad sandy beaches."
+    },
+    {
+      "name": "Morro Jable & Jandía",
+      "description": "Southern resort area with a long beach, promenade and harbour."
+    },
+    {
+      "name": "El Cotillo",
+      "description": "Northwest fishing village with lagoons, surf beaches and sunsets."
+    },
+    {
+      "name": "Puerto del Rosario",
+      "description": "Island capital with shops, waterfront and local cultural attractions."
+    },
+    {
+      "name": "Betancuria",
+      "description": "Historic inland village with traditional Canarian architecture."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Parque Natural de Corralejo",
+      "description": "Protected dune landscape and sweeping sandy coastline; follow designated access routes."
+    },
+    {
+      "name": "Isla de Lobos",
+      "description": "Protected small island reached by boat from Corralejo; check permits and sailing conditions."
+    },
+    {
+      "name": "Cuevas de Ajuy",
+      "description": "Sea caves reached by a coastal walking path; stay clear of cliff edges and rough seas."
+    },
+    {
+      "name": "Betancuria historic centre",
+      "description": "Explore the historic village, church surroundings and mountain scenery."
+    },
+    {
+      "name": "Mirador de Morro Velosa",
+      "description": "Mountain viewpoint; check whether facilities are open before travelling."
+    },
+    {
+      "name": "Oasis Wildlife Fuerteventura",
+      "description": "Wildlife and botanical attraction near La Lajita; check current tickets and animal welfare information."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Walking",
+      "description": "Coastal promenades are pleasant, but exposed beaches and inland paths can be windy and hot."
+    },
+    {
+      "name": "TiADHE buses",
+      "description": "Island bus services connect major towns and resorts; check current routes and timetables."
+    },
+    {
+      "name": "Car hire",
+      "description": "Useful for quieter beaches and inland villages; some remote roads are unpaved."
+    },
+    {
+      "name": "Taxis",
+      "description": "Licensed taxis are available in main resort areas; check the fare or meter."
+    },
+    {
+      "name": "Airport connections",
+      "description": "Fuerteventura Airport (FUE) has bus, taxi and hire-car options; confirm current services."
+    },
+    {
+      "name": "Ferries",
+      "description": "Ferries connect Corralejo with Lanzarote and Morro Jable with Gran Canaria; check schedules."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 in an emergency in Spain."
+    },
+    {
+      "name": "Wind and sun",
+      "description": "Fuerteventura is often windy; use sun protection, water and secure loose belongings."
+    },
+    {
+      "name": "Sea safety",
+      "description": "Follow beach flags and lifeguard instructions; surf and currents can be powerful."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check bank fees and exchange rates."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government travel advice for Spain and your travel insurance."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish is the official language; English is commonly spoken in tourist resorts."
+    },
+    {
+      "name": "Nature protection",
+      "description": "Respect dune paths, wildlife and protected coastal areas; take litter away."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "description": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Fuerteventura tourism",
+      "description": "https://www.visitfuerteventura.com/"
+    },
+    {
+      "name": "AENA Fuerteventura Airport",
+      "description": "https://www.aena.es/en/fuerteventura.html"
+    },
+    {
+      "name": "Emergency number",
+      "description": "https://digital-strategy.ec.europa.eu/en/policies/112"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Fuerteventura local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Grandes Playas de Corralejo",
+      "description": "Long sandy beaches beside the dunes; exposed to wind and waves."
+    },
+    {
+      "name": "Playa de Sotavento",
+      "description": "Expansive southeast beach famous for changing tidal lagoons and watersports."
+    },
+    {
+      "name": "Playa de Cofete",
+      "description": "Remote wild beach with dramatic mountains; dangerous currents and difficult road access."
+    },
+    {
+      "name": "Playa del Castillo",
+      "description": "Sheltered beach at Caleta de Fuste, popular with families."
+    },
+    {
+      "name": "Playa de la Concha, El Cotillo",
+      "description": "Sandy cove with clear water; always check conditions."
+    },
+    {
+      "name": "Playa del Matorral",
+      "description": "Long sandy beach near Morro Jable and its lighthouse."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Corralejo shopping streets",
+      "description": "Browse shops and local businesses; check market schedules locally."
+    },
+    {
+      "name": "Caleta de Fuste markets",
+      "description": "Resort markets may operate on selected days; confirm locally."
+    },
+    {
+      "name": "Puerto del Rosario",
+      "description": "Explore town-centre shopping and local shops."
+    },
+    {
+      "name": "Morro Jable",
+      "description": "Resort shops and occasional markets; check dates and opening times."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Corralejo evenings",
+      "description": "Bars, live music and restaurants around the resort centre."
+    },
+    {
+      "name": "Caleta de Fuste",
+      "description": "Relaxed pubs and family-friendly evening venues."
+    },
+    {
+      "name": "Morro Jable",
+      "description": "Seafront restaurants and relaxed bars."
+    },
+    {
+      "name": "El Cotillo sunset",
+      "description": "Enjoy a quieter evening overlooking the west coast."
+    }
+  ],
+  "family": [
+    {
+      "name": "Caleta de Fuste beach day",
+      "description": "A sheltered resort beach with facilities nearby."
+    },
+    {
+      "name": "Corralejo dunes",
+      "description": "Scenic beach visit; avoid fragile dune areas and pack sun protection."
+    },
+    {
+      "name": "Glass-bottom or boat excursion",
+      "description": "Check local operators, weather and age suitability."
+    },
+    {
+      "name": "Oasis Wildlife Fuerteventura",
+      "description": "Animal and botanical park; review facilities and animal welfare details."
+    },
+    {
+      "name": "Family photo trail",
+      "description": "Collect favourite holiday photos and save them in your Photo Album."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Corralejo harbour area",
+      "description": "Find seafood restaurants, cafés and casual dining."
+    },
+    {
+      "name": "El Cotillo",
+      "description": "Try local fish restaurants and sunset dining."
+    },
+    {
+      "name": "Caleta de Fuste",
+      "description": "Resort restaurants with varied international menus."
+    },
+    {
+      "name": "Morro Jable promenade",
+      "description": "Explore waterfront restaurants and cafés."
+    },
+    {
+      "name": "Betancuria",
+      "description": "Look for traditional Canarian dishes in the historic village."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Betancuria and mountain viewpoints",
+      "description": "Explore the island interior, scenic roads and historic architecture."
+    },
+    {
+      "name": "El Cotillo and northwest coast",
+      "description": "Discover lagoons, coastal scenery and a relaxed fishing village."
+    },
+    {
+      "name": "Isla de Lobos",
+      "description": "Boat excursion from Corralejo; permits may be required."
+    },
+    {
+      "name": "Ajuy caves and village",
+      "description": "Coastal caves, dramatic cliffs and a small fishing village."
+    },
+    {
+      "name": "Cofete viewpoint",
+      "description": "Remote mountain scenery; road conditions and access can be challenging."
+    },
+    {
+      "name": "Lanzarote by ferry",
+      "description": "Day trip from Corralejo to Playa Blanca; check sailing times and return arrangements."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Corralejo",
+      "description": "Corralejo, Fuerteventura, Spain"
+    },
+    {
+      "name": "Caleta de Fuste",
+      "description": "Caleta de Fuste, Fuerteventura, Spain"
+    },
+    {
+      "name": "Costa Calma",
+      "description": "Costa Calma, Fuerteventura, Spain"
+    },
+    {
+      "name": "Morro Jable",
+      "description": "Morro Jable, Fuerteventura, Spain"
+    },
+    {
+      "name": "El Cotillo",
+      "description": "El Cotillo, Fuerteventura, Spain"
+    },
+    {
+      "name": "Betancuria",
+      "description": "Betancuria, Fuerteventura, Spain"
+    },
+    {
+      "name": "Ajuy",
+      "description": "Ajuy, Fuerteventura, Spain"
+    },
+    {
+      "name": "Sotavento Beach",
+      "description": "Playa de Sotavento, Fuerteventura, Spain"
+    }
+  ]
+}
